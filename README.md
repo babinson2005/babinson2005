@@ -1,7 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="tokyo%20bike%20wallpaper.jpg" alt="Banner" width="100%">
+  <video src="307398.mp4" autoplay loop muted playsinline width="100%"></video>
 </p>
+<p align="center">
+  <img src="assets/nepal1.jpg" width="45%" />
+  <img src="assets/nepal2.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="assets/nepal3.jpg" width="45%" />
+  <img src="assets/nepal4.jpg" width="45%" />
+</p>
+
 
 <h1 align="center">Hey 👋, I'm Babinson Batala</h1>
 
