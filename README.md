@@ -1,14 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <video src="307398.mp4" autoplay loop muted playsinline width="100%"></video>
-</p>
-<p align="center">
-  <img src="assets/nepal1.jpg" width="45%" />
-  <img src="assets/nepal2.jpg" width="45%" />
-</p>
-<p align="center">
-  <img src="assets/nepal3.jpg" width="45%" />
-  <img src="assets/nepal4.jpg" width="45%" />
+  <img src="assets/nepal-collage.png" alt="Nepal Collage" width="90%">
 </p>
 
 
