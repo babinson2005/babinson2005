@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Beautiful Natural Scenery Aesthetics Mood Photo Collage.png" alt="Nepal Collage" width="50%">
+  <img src="assets/nepal.png" alt="Nepal Collage" width="50%">
 </p>
 
 
