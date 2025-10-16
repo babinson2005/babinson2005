@@ -35,7 +35,8 @@ I value clean, intentional solutions over flashy complexity, and I’m always lo
 ### ✨ Fun Facts
 
 - ⚽ I love playing **soccer** and 🏐 **volleyball**  
-- ✈️ I enjoy exploring new places, foods, and cultures  
+- ✈️ I enjoy exploring new places, foods, and cultures
+- 👕 I love putting together **creative outfits** and expressing myself through fashion
 - 🎮 Grand Champion in **Rocket League** & 2.5 K/D in **Warzone**  
 - 🧠 Currently working on an **NFL predictor using gradient boosting**  
 - 🏃‍♂️ I can run 100m in **11.6 seconds**  
