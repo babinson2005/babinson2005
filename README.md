@@ -26,7 +26,7 @@
 I'm a **Computer Science student at Queen’s University**, specializing in **Artificial Intelligence**.  
 My work focuses on **machine learning**, **predictive modeling**, and **full-stack development**, blending technical depth with real-world problem solving. I’m passionate about exploring how data and intelligent systems can create meaningful, practical impact.
 
-I thrive in **research-driven** and **analytical environments** — whether it's building an **NFL outcome predictor using gradient boosting**, designing interactive web applications, or exploring new technologies to push my skills forward.
+I thrive in **research-driven** and **analytical environments**, whether it's building an **NFL outcome predictor using gradient boosting**, designing interactive web applications, or exploring new technologies to push my skills forward.
 
 I value clean, intentional solutions over flashy complexity, and I’m always looking for opportunities to grow as a **problem solver**, **researcher**, and **collaborator**.
 
