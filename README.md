@@ -1,6 +1,6 @@
-<!-- Banner (You can replace this with your own image stored in /assets/) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1514790193030-c89d266d5a9d?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%">
+  <img src="tokyo%20bike%20wallpaper.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋, I'm Babinson Batala</h1>
@@ -21,28 +21,23 @@
 
 ---
 
-### 🌟 About Me
+### 🧠 About Me
 
 I'm a **Computer Science student at Queen’s University**, specializing in **Artificial Intelligence**.  
-Outside of code, you’ll almost always find me chasing a ball on the **soccer** or **volleyball** court 🏐⚽ — or chasing new experiences around the world 🌍. I love **exploring new places**, **trying unique foods**, and diving into **different cultures**.
+My work focuses on **machine learning**, **predictive modeling**, and **full-stack development**, blending technical depth with real-world problem solving. I’m passionate about exploring how data and intelligent systems can create meaningful, practical impact.
 
-When I’m not outdoors, I’m a bit of a gamer — I hit **Grand Champion in Rocket League**, rocked a **2.5 K/D in Warzone**, and I’ll still challenge anyone in **FIFA** 👑🎮.  
-I’m also into **anime**, and I’ve got a soft spot for those fast-paced 100m dashes (PB: **11.6 seconds**) 🏃‍♂️💨.
+I thrive in **research-driven** and **analytical environments** — whether it's building an **NFL outcome predictor using gradient boosting**, designing interactive web applications, or exploring new technologies to push my skills forward.
 
-Technically, I’m currently working on an **NFL predictor using gradient boosting**, and I get genuinely excited about solving tough problems and uncovering patterns in data. I’d describe myself as both a **problem solver** and a **researcher** — the kind of person who loves breaking complex challenges into elegant solutions.
+I value clean, intentional solutions over flashy complexity, and I’m always looking for opportunities to grow as a **problem solver**, **researcher**, and **collaborator**.
 
 ---
 
 ### ✨ Fun Facts
-- 🥇 **Rocket League** Grand Champion  
-- 🧠 Currently building: NFL game outcome predictor using gradient boosting  
-- ✈️ Love exploring cultures through food and travel  
-- 💻 Passionate about data, machine learning, and clever problem-solving  
-- 🎌 Anime fan, 100m sprinter, Warzone enthusiast
 
----
+- ⚽ I love playing **soccer** and 🏐 **volleyball**  
+- ✈️ I enjoy exploring new places, foods, and cultures  
+- 🎮 Grand Champion in **Rocket League** & 2.5 K/D in **Warzone**  
+- 🧠 Currently working on an **NFL predictor using gradient boosting**  
+- 🏃‍♂️ I can run 100m in **11.6 seconds**  
+- 🎌 I’m also an anime fan
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babinson2005&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babinson2005&layout=compact&theme=default" height="150" />
-</p>
