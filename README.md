@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nepal-collage.png" alt="Nepal Collage" width="50%">
+  <img src="nepal-collage.png" alt="Nepal Collage" width="50%">
 </p>
 
 
